@@ -16,8 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Aplicacion PHP v3</h1>
-                <h2>Gracias Reachcore</h2>
-                <h2>http://bit.ly/2JfOAo4</h2>  
+                <h2>GRACIAS TOTALES</h2>  
                 <p>Tu aplicacion PHP esta siendo ejecutada usando CodePipeline, CodeBuild, y ECS-Fargate.</p>
                 <p>devops strategy!!</p>                
                 <br>
