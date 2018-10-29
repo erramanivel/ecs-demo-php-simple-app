@@ -15,8 +15,9 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Aplicacion PHP v3</h1>
+                <h1>Aplicacion PHP v2</h1>
                 <h2>GRACIAS TOTALES</h2>  
+                <h2>Seattle</h2>                
                 <p>Tu aplicacion PHP esta siendo ejecutada usando CodePipeline, CodeBuild, y ECS-Fargate.</p>
                 <p>devops strategy!!</p>                
                 <br>
