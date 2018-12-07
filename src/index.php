@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>
                 <h2>GRACIAS TOTALES</h2>  
-                <h2>Veracruz</h2>                
+                <h2>VeracruzV2</h2>                
                 <p>Tu aplicacion PHP esta siendo ejecutada usando CodePipeline, CodeBuild, y ECS-Fargate.</p>
                 <p>devops strategy!!</p>                
                 <br>
