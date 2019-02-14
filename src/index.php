@@ -17,8 +17,8 @@
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>
                 <h2>GRACIAS TOTALES</h2>  
-                <h2>ECARESOFT V2</h2>                
-                <p>Tu aplicacion PHP esta siendo ejecutada usando CodePipeline, CodeBuild, y ECS-Fargate.</p>
+                <h2>Empresa</h2>                
+                <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy y ECS-Fargate.</p>
                 <p>devops strategy!!</p>                
                 <br>
                 <br>
@@ -27,6 +27,7 @@
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
+                        echo(rand(10,100));
                 ?>
 
             </div>
