@@ -19,7 +19,8 @@
                 <h2>GRACIAS TOTALES</h2>  
                 <h2>Cemex</h2>                
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy y ECS-Fargate.</p>
-                <p>devops strategy!!</p>                
+                <p>devops strategy!!</p>
+                <p>Wizeline GDL</p>
                 <br>
                 <br>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
