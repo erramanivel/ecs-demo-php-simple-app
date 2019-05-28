@@ -16,8 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>
-                <h2>GRACIAS TOTALES</h2>  
-                <h2>Cemex</h2>                
+                <h2>GRACIAS TOTALES</h2>                 
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy y ECS-Fargate.</p>
                 <p>devops strategy!!</p>
                 <p>Wizeline GDL</p>
