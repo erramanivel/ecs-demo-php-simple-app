@@ -17,9 +17,8 @@
             <div class="hero-unit">
                 <h1>Aplicacion PHP con CI/CD</h1>
                 <h2>GRACIAS TOTALES</h2>                 
-                <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy y ECS-Fargate.</p>
-                <p>devops strategy!!</p>
-                <p>Meetup Junio 2019</p>
+                <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy, ECR y ECS-Fargate.</p>
+                <p>Meetup Julio 2019</p>
                 <br>
                 <br>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
