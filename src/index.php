@@ -19,7 +19,7 @@
                 <h2>GRACIAS TOTALES</h2>                 
                 <p>Tu aplicacion PHP esta siendo ejecutada usando GitHub, CodePipeline, CodeBuild, CodeDeploy y ECS-Fargate.</p>
                 <p>devops strategy!!</p>
-                <p>ALSEA YEAHHHHH VINO BARA BARA</p>
+                <p>Meetup Junio 2019</p>
                 <br>
                 <br>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
